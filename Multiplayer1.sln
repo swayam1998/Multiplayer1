@@ -1,0 +1,73 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleWebTransport", "SimpleWebTransport.csproj", "{19b22d77-3d55-cdfc-4975-3f8497f06a1e}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mirror", "Mirror.csproj", "{0ffda869-f5db-9e60-38e8-f6badd8e5ef2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Telepathy", "Telepathy.csproj", "{975ef0db-d6b5-3a5d-efd5-18b9e4fa2288}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mirror.Cloud", "Mirror.Cloud.csproj", "{d2c2418c-79ee-9ace-5088-0a6e8ebc9da5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mirror.Components", "Mirror.Components.csproj", "{ee687a06-ed9b-4d3c-c24b-2097e397451f}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mirror.Examples", "Mirror.Examples.csproj", "{bca6c69e-e789-5709-53b6-e22c83cacead}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mirror.Examples.Cloud.GUI", "Mirror.Examples.Cloud.GUI.csproj", "{4eed0f1d-7e7d-5d0c-6f54-540967f61110}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kcp2k", "kcp2k.csproj", "{e075d278-f6f6-7cde-df22-b863824f1385}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mirror.Examples.Cloud.Pong", "Mirror.Examples.Cloud.Pong.csproj", "{3fc6fc2b-a16c-57f7-b7e8-67aa759b7b90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mirror.Authenticators", "Mirror.Authenticators.csproj", "{dddda0af-57ea-a05c-6562-6aee880de98e}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{7cf9fc45-bfa2-e308-00d0-b49d1b0a7324}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mirror.Weaver", "Mirror.Weaver.csproj", "{2e876e9e-031a-11b0-a669-195f90a2c034}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mirror.Editor", "Mirror.Editor.csproj", "{fe0db018-fc85-ccec-ee6c-48bfbd4567ba}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mirror.CompilerSymbols", "Mirror.CompilerSymbols.csproj", "{da067f2f-7820-88ee-3753-d419df88421c}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParrelSync", "ParrelSync.csproj", "{16929d59-c095-882a-392d-2f261eec29f9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19b22d77-3d55-cdfc-4975-3f8497f06a1e}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19b22d77-3d55-cdfc-4975-3f8497f06a1e}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ffda869-f5db-9e60-38e8-f6badd8e5ef2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ffda869-f5db-9e60-38e8-f6badd8e5ef2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{975ef0db-d6b5-3a5d-efd5-18b9e4fa2288}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{975ef0db-d6b5-3a5d-efd5-18b9e4fa2288}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{d2c2418c-79ee-9ace-5088-0a6e8ebc9da5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{d2c2418c-79ee-9ace-5088-0a6e8ebc9da5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ee687a06-ed9b-4d3c-c24b-2097e397451f}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ee687a06-ed9b-4d3c-c24b-2097e397451f}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{bca6c69e-e789-5709-53b6-e22c83cacead}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{bca6c69e-e789-5709-53b6-e22c83cacead}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4eed0f1d-7e7d-5d0c-6f54-540967f61110}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4eed0f1d-7e7d-5d0c-6f54-540967f61110}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{e075d278-f6f6-7cde-df22-b863824f1385}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{e075d278-f6f6-7cde-df22-b863824f1385}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3fc6fc2b-a16c-57f7-b7e8-67aa759b7b90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3fc6fc2b-a16c-57f7-b7e8-67aa759b7b90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{dddda0af-57ea-a05c-6562-6aee880de98e}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{dddda0af-57ea-a05c-6562-6aee880de98e}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7cf9fc45-bfa2-e308-00d0-b49d1b0a7324}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7cf9fc45-bfa2-e308-00d0-b49d1b0a7324}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2e876e9e-031a-11b0-a669-195f90a2c034}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2e876e9e-031a-11b0-a669-195f90a2c034}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{fe0db018-fc85-ccec-ee6c-48bfbd4567ba}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{fe0db018-fc85-ccec-ee6c-48bfbd4567ba}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{da067f2f-7820-88ee-3753-d419df88421c}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{da067f2f-7820-88ee-3753-d419df88421c}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16929d59-c095-882a-392d-2f261eec29f9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16929d59-c095-882a-392d-2f261eec29f9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
